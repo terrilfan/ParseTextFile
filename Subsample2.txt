@@ -1,0 +1,71 @@
+
+                                               ECONOMIC PRODUCT TYPE ANALYSIS                               PAGE    1
+                                                   Transacted Price Analysis                     Printed on 17/10/2020 
+Company Name: User : GOLD MINING LTD      
+Selection : Fil. Date:01/01/1990-01/01/2010, Usage:Fruit
+
+File. No.  Type       Storage / Name / Office Name /           Price    Gross Load Net Load   Specification / Size /
+Sat.Date   Fin Date   Street Name / State /                    ($M)     Price/kil  Price/kil  Tree / Facilities /
+Fil.Date   Nature     Buyer / Seller                                                          Tree Year / Expected Term
+---------- ---------- ---------------------------------------- -------- ---------- ---------- -------------------------
+0000003    Fruit      Full, CCBANA                              1.020     152kil B   482kil B Window Y; SSS/Din
+01/01/2004 2000/12/07 WEDADY Office                                      $  2.005  $  1201.0  WW; SUNAB;
+29/03/2005 (AA)       South Orphine Drive 99, Oxford Street / Alabama                         10 yrs;   30 yrs
+           ADD        William Lee                                        Remarks: 
+                      GOLD MINING LTD                                             
+
+0000004    Fruit      Partial,BBOrange                          9.010     941kil B   625kil B Window Z; AAA/Din
+05/02/2001 2001/01/18 Iceland Office                			$  3.009  $  1580.0  NN; SUBAB;WIND CDD;
+26/01/2005 (BB)       Seventh Street /Alaska                                                  20 yrs;   40 yrs
+           ORG        Thomas Strong                                      Remarks: bad orange
+                      GOLD MINING LTD       
+
+
+
+
+                                               ECONOMIC PRODUCT TYPE ANALYSIS                               PAGE    2
+                                                   Transacted Price Analysis                     Printed on 17/10/2020 
+Company Name: User : GOLD MINING LTD      
+Selection : Fil. Date:01/01/1990-01/01/2010, Usage:Fruit
+
+
+File. No.  Type       Storage / Name / Office Name /           Price    Gross Load Net Load   Specification / Size /
+Sat.Date   Fin Date   Street Name / State /                    ($M)     Price/kil  Price/kil  Tree / Facilities /
+Fil.Date   Nature     Buyer / Seller                                                          Tree Year / Expected Term
+---------- ---------- ---------------------------------------- -------- ---------- ---------- -------------------------
+0000001    Fruit      Full, AAAPLE                              1.020     152kil B   482kil B Window Y; SSS/Din
+01/01/2001 1999/07/07 Sunday Office                                      $  2.005  $  1201.0  WW; SUNAB;
+29/03/2001 (AA)       South Orphine Drive 99, Oxford Street / Alabama                         10 yrs;   30 yrs
+           ORG        William Lee                                        Remarks: 
+                      GOLD MINING LTD                                             
+
+0000002    Fruit      Partial,BBOrange                          9.010     941kil B   625kil B Window Z; AAA/Din
+05/02/2002 2000/07/18 Iceland Office                			$  3.009  $  1580.0  NN; SUBAB;WIND CDD;
+26/01/2002 (BB)       Seventh Street /Alaska                                                  20 yrs;   40 yrs
+           ADD        Thomas Strong                                      Remarks: 
+                      GOLD MINING LTD                                             
+					  
+					  
+					  
+					  
+                                               ECONOMIC PRODUCT TYPE ANALYSIS                               PAGE    3
+                                                   Transacted Price Analysis                     Printed on 17/10/2020 
+Company Name: User : GOLD MINING LTD      
+Selection : Fil. Date:01/01/1990-01/01/2010, Usage:Fruit
+
+
+File. No.  Type       Storage / Name / Office Name /           Price    Gross Load Net Load   Specification / Size /
+Sat.Date   Fin Date   Street Name / State /                    ($M)     Price/kil  Price/kil  Tree / Facilities /
+Fil.Date   Nature     Buyer / Seller                                                          Tree Year / Expected Term
+---------- ---------- ---------------------------------------- -------- ---------- ---------- -------------------------
+0000005    Fruit      Full, AAAPLE                              1.020     152kil B   482kil B Window Y; SSS/Din
+01/01/2001 1999/07/07 Sunday Office                                      $  2.005  $  1201.0  WW; SUNAB;
+29/03/2001 (AA)       South Orphine Drive 99, Oxford Street / Alabama                         10 yrs;   30 yrs
+           ORG        William Lee                                        Remarks: bad APPLE
+                      GOLD MINING LTD                                             
+
+0000006    Fruit      Partial,BBOrange                          9.010     941kil B   625kil B Window Z; AAA/Din
+05/02/2002 2000/07/18 Iceland Office                			$  3.009  $  1580.0  NN; SUBAB;WIND CDD;
+26/01/2002 (BB)       Seventh Street /Alaska                                                  20 yrs;   40 yrs
+           ADD        Thomas Strong                                      Remarks: 
+                      GOLD MINING LTD                                             
